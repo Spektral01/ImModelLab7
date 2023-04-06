@@ -1,0 +1,10 @@
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\bin\Debug\ImModelLab7.exe.config
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\bin\Debug\ImModelLab7.exe
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\bin\Debug\ImModelLab7.pdb
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.csproj.AssemblyReference.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.Form1.resources
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.Properties.Resources.resources
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.csproj.GenerateResource.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.csproj.CoreCompileInputs.cache
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.exe
+C:\Users\chaly\OneDrive\Рабочий стол\LABYYY\OOp\ImModelLab7\ImModelLab7\obj\Debug\ImModelLab7.pdb
